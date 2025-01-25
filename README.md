@@ -1,5 +1,13 @@
+# About:
+- The ollama-webUI repository provides automated scripts to simplify the installation of Ollama and its WebUI on Ubuntu 24.04.1 LTS (Gnome). 
+
+- It guides users through installing Ollama, setting up a Large Language Model (LLM) like DeepSeek-r1 with 8 billion parameters, and creating a desktop entry for easy access to the WebUI. 
+
+- This streamlined approach ensures a seamless setup experience for users interested in deploying local LLMs with a user-friendly interface.
+
 [![Sponsor Priyansusahoo](https://img.shields.io/badge/Sponsor-Priyansusahoo-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/Priyansusahoo)
 
+# INSTALLATION:
 ## Ollama & Ollama-WebUI Installation and Creating Desktop Entry:
 
 ### UBUNTU 24.04.1 LTS (Gnome) (TESTED)
