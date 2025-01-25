@@ -2,7 +2,7 @@
 
 ## Ollama & Ollama-WebUI Installation and Creating Desktop Entry:
 
-# UBUNTU 24.04.1 LTS (GNOME) (TESTED)
+### UBUNTU 24.04.1 LTS (Gnome) (TESTED)
 
 ## Install Ollama:
   
@@ -30,7 +30,7 @@
   
       $ sudo snap install ollama-webui --beta
 
-## Creating a Desktop Entry for Ollama-WebUI to access it from app drawer
+## Creating a Desktop Entry for Ollama-WebUI to access it from the app drawer
 
 - Save this [script](https://raw.githubusercontent.com/Priyansusahoo/ollama-webUI/refs/heads/main/ollama-launcher.sh) to ~/.scripts folder as mentioned below
 
@@ -47,7 +47,7 @@
 
       $ chmod +x ollama-launcher.sh
 
-- Download [this file](https://github.com/Priyansusahoo/ollama-webUI/blob/main/ollama-WebUI-Create-desktop-entry.sh) and save it in ~/.scripts folder in users HOME directory and give the required permissions
+- Download [this file](https://github.com/Priyansusahoo/ollama-webUI/blob/main/ollama-WebUI-Create-desktop-entry.sh) and save it in ~/.scripts folder in the users HOME directory and give the required permissions
 
       $ chmod +x ollama-WebUI-Create-desktop-entry.sh
 
