@@ -1,9 +1,9 @@
 # About:
 - Automated scripts to simplify the process of Ollama and its WebUI Launch in one click on Ubuntu 24.04.1 LTS (Gnome). 
 
-- Setting up a Large Language Model (LLM) like DeepSeek-r1 with 8 billion parameters, and
+- Setting up a Large Language Model (LLM) like `DeepSeek-r1` with 8 billion parameters, and
 
-- Creating a desktop entry for easy access to the WebUI (Auto start ollama server and Validations)
+- Creating a `desktop entry` for easy access to the WebUI (Auto start ollama server and Validations)
 
 # SUPPORT:
 Star this repo 😉
