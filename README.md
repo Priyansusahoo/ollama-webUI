@@ -6,7 +6,8 @@
 - Creating a `desktop entry` for easy access to the WebUI (Auto start ollama server and Validations)
 
 # SUPPORT:
-Star this repo 😉
+
+⭐ **Star this repo if you find it useful!** ⭐  
 
 [![Sponsor Priyansusahoo](https://img.shields.io/badge/Sponsor-Priyansusahoo-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/Priyansusahoo)
 
